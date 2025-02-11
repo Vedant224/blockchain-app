@@ -25,7 +25,7 @@ Ensure you have **Node.js** installed.
    ```
 2. Install dependencies:
    ```sh
-   npm install crypto-js
+   npm install
    ```
 3. Run the simulation:
    ```sh
