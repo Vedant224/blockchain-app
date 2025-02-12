@@ -20,7 +20,7 @@ Ensure you have **Node.js** installed.
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/blockchain-app.git
+   git clone https://github.com/Vedant224/blockchain-app.git
    cd blockchain-app
    ```
 2. Install dependencies:
