@@ -73,3 +73,6 @@ This project meets the following criteria:
 - **Code Quality:** Clean and well-structured code with comments.
 - **Bonus Features:** Includes Proof-of-Work and transaction handling.
 - **Dockerization:** Provides a Docker setup for running the project.
+
+- ## Author
+Developed by Vedant Hande ([Vedant224](https://github.com/Vedant224))
